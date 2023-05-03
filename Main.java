@@ -1,3 +1,4 @@
+//creation of a graph and calculation of its connected components
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.util.LinkedList;
